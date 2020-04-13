@@ -7,7 +7,7 @@ To contribute, either request permissions (Google Docs) or issue a pull request 
 
 Game Theory for Developmental Processes: [Google Doc](https://docs.google.com/document/d/17_jziJmoCMWaWQvsV5Omhc9yUeGaiWoikaUt7xd6hK0/edit)
 
-Models for Biological (living) Networks: [Neuromatch.io lecture](), [Github](https://github.com/devoworm/Theoretical-Types-of-Embryo-Developmental-Networks)
+Models for Biological (living) Networks: [Neuromatch.io lecture](https://docs.google.com/presentation/d/1hYQJjhmG0t5fIWgzdhdmoNjyhEEu6Mj85ULwoBafxa8/edit#slide=id.g72374b405e_0_27), [Github](https://github.com/devoworm/Theoretical-Types-of-Embryo-Developmental-Networks)
 
 Bacillaria Non-neuronal Cognition
 
