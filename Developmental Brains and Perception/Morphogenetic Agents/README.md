@@ -3,15 +3,15 @@
   Click to enlarge.
 </p>
 <p align="center">
-  <img width="480" height="270" src="https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/Slide2.png"><BR>
+  <img width="480" height="270" src="https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/Number2.png"><BR>
   Click to enlarge.
 </p>
 <p align="center">
-  <img width="480" height="270" src="https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/Slide3.png"><BR>
+  <img width="480" height="270" src="https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/Number3.png"><BR>
   Click to enlarge.
 </p>
 <p align="center">
-  <img width="480" height="270" src="https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/Slide4.png"><BR>
+  <img width="480" height="270" src="https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/Number4.png"><BR>
   Click to enlarge.
 </p>
 <p align="center">
