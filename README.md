@@ -9,7 +9,12 @@ Game Theory for Developmental Processes: [Google Doc](https://docs.google.com/do
 
 Models for Biological (living) Networks: [Neuromatch.io lecture](https://docs.google.com/presentation/d/1hYQJjhmG0t5fIWgzdhdmoNjyhEEu6Mj85ULwoBafxa8/edit#slide=id.g72374b405e_0_27), [Github](https://github.com/devoworm/Theoretical-Types-of-Embryo-Developmental-Networks)
 
-Bacillaria Non-neuronal Cognition
+### Behavioral Emergence
+Behavioral Emergence as Explorations of the Possible [link](https://github.com/devoworm/Emergent-Behavior/blob/master/Behavioral-Emergence-as-Explorations-of-the-Possible.md)
+
+Emergent Behavior in _C. elegans_ and other organisms [Github](https://github.com/devoworm/Emergent-Behavior/blob/master/Review-document.md)
+
+### Bacillaria Non-neuronal Cognition
 
 * Bacillaria Psychophysics: [Google Doc](https://docs.google.com/document/d/17_jziJmoCMWaWQvsV5Omhc9yUeGaiWoikaUt7xd6hK0/edit)
 
