@@ -16,9 +16,9 @@ Emergent Behavior in _C. elegans_ and other organisms [Github](https://github.co
 
 ### Bacillaria Non-neuronal Cognition
 
-* Bacillaria Psychophysics: [Google Doc](https://docs.google.com/document/d/17_jziJmoCMWaWQvsV5Omhc9yUeGaiWoikaUt7xd6hK0/edit)
+* Bacillaria Psychophysics: [Google Doc](https://github.com/devoworm/Digital-Bacillaria/blob/master/Behaviors/Open%20Papers/Bacillaria-Psychophysics.md)
 
-* Collective Pattern Generators: [Google Doc](https://docs.google.com/document/d/12t_pcFRiBCqomIxqzOF5A2ljl4RpCn-ObqI7SJYmHr8/edit), [Github](https://github.com/devoworm/Digital-Bacillaria/tree/master/Behaviors)
+* Collective Pattern Generators: [Google Doc](https://docs.google.com/document/d/12t_pcFRiBCqomIxqzOF5A2ljl4RpCn-ObqI7SJYmHr8/edit), [Github](https://github.com/devoworm/Digital-Bacillaria/blob/master/Behaviors/Open%20Papers/Bacillaria-CoPGs.md)
 
 Moire Patterns for Developmental Biology: [Github](https://github.com/devoworm/AoDT/tree/master/Moire%20Patterns%20for%20Developmental%20Data)
 
