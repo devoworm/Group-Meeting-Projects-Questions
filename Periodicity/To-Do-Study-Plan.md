@@ -21,7 +21,7 @@ _C. elegans_ cell divisions (rounds of division), Zebrafish (Zygote-Cleavage sta
 Model            |  Measure                |  Control  |
 -----------------|-------------------------|-----------|
 *C. elegans*     | Division to 450 minutes | N         |
-Zebrafish        | Division to 450 minutes | N         |
+Zebrafish        | Division to 206 minutes | N         |
 Simulated Embryo | Division to 450 minutes | Y         |
 
 Experiments with simulated embryo (non-control), how do we differentiate the division process? Does cyclic behavior (division events occduring in waves) lead to or favor structural asymmetries?
