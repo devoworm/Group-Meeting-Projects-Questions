@@ -7,9 +7,6 @@ Bradly Alicea, Richard Gordon, Ujjwal Singh, Mayukh Deb, Jesse Parent
 ## Division of Labor
 Mayukh (division events analysis, need a histogram of developmental time (bin size 50 minutes) versus numer of cells/events in bin.
 
-
-||||  Comment
-
 Ujjwal (data analysis, frequency analysis, machine learning)
 
 Bradly Alicea (coordination, analysis, data science).
