@@ -12,12 +12,16 @@ Periodicity in the embryo: emergence of order in space, diffusion of order in ti
 
 Models for Biological (living) Networks: [Neuromatch.io lecture](https://docs.google.com/presentation/d/1hYQJjhmG0t5fIWgzdhdmoNjyhEEu6Mj85ULwoBafxa8/edit#slide=id.g72374b405e_0_27), [Github](https://github.com/devoworm/Theoretical-Types-of-Embryo-Developmental-Networks)
 
+### Developmental Biology and Machine Learning
+Morphogenesis and the Theory of Deep Learning [Github](https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Morphogenesis%20and%20Theory%20of%20Deep%20Learning/Abstract.md)
 
 ### Behavioral Emergence
-Behavioral Emergence as Explorations of the Possible [link](https://github.com/devoworm/Emergent-Behavior/blob/master/Behavioral-Emergence-as-Explorations-of-the-Possible.md)
+Behavioral Emergence as Explorations of the Possible [Github](https://github.com/devoworm/Emergent-Behavior/blob/master/Behavioral-Emergence-as-Explorations-of-the-Possible.md)
 
 Emergent Behavior in _C. elegans_ and other organisms [Github](https://github.com/devoworm/Emergent-Behavior/blob/master/Review-document.md)
 
+### DevoLearn
+DevoLearn: Machine Learning Models and Education that Enable Computational Developmental Biology [Github](https://github.com/DevoLearn/devolearn/blob/master/paper.md)
 
 ### Bacillaria Non-neuronal Cognition
 
