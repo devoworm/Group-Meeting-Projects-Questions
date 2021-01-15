@@ -8,9 +8,11 @@ To contribute, either request permissions (Google Docs) or issue a pull request 
 ## Developmental Modeling
 Game Theory for Developmental Processes: [Google Doc](https://docs.google.com/document/d/17_jziJmoCMWaWQvsV5Omhc9yUeGaiWoikaUt7xd6hK0/edit)
 
-Periodicity in the embryo: emergence of order in space, diffusion of order in time: [Github](https://github.com/Orthogonal-Research-Lab/Periodicity-in-the-Embryo/blob/master/Abstract.md), [Google Doc](https://drive.google.com/file/d/1PA5u_AgpWhgJff3m_1NbcFP_MXi8EOam/view?usp=sharing)
-
 Models for Biological (living) Networks: [Neuromatch.io lecture](https://docs.google.com/presentation/d/1hYQJjhmG0t5fIWgzdhdmoNjyhEEu6Mj85ULwoBafxa8/edit#slide=id.g72374b405e_0_27), [Github](https://github.com/devoworm/Theoretical-Types-of-Embryo-Developmental-Networks)
+
+Theoretical Types of Embryo/Developmental Networks: [Github](https://github.com/devoworm/Theoretical-Types-of-Embryo-Developmental-Networks/blob/master/Review-document.md)
+
+Triangular State Machines: [github](https://github.com/devoworm/Triangular-State-Machines-TSM)
 
 ### Developmental Biology and Machine Learning
 Morphogenesis and the Theory of Deep Learning [Github](https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Morphogenesis%20and%20Theory%20of%20Deep%20Learning/Abstract.md)
