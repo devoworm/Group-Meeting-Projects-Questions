@@ -12,7 +12,7 @@ Models for Biological (living) Networks: [Neuromatch.io lecture](https://docs.go
 
 Theoretical Types of Embryo/Developmental Networks: [Github](https://github.com/devoworm/Theoretical-Types-of-Embryo-Developmental-Networks/blob/master/Review-document.md)
 
-Triangular State Machines: [github](https://github.com/devoworm/Triangular-State-Machines-TSM)
+Embryo Networks as Generative Divergent Integration [Google Doc](https://docs.google.com/document/d/1UOGvkIwH3gr6EA48Uau4xUX2hR1PQWIeCb-kGm-U6Fc/edit), [Github](https://github.com/devoworm/Theoretical-Types-of-Embryo-Developmental-Networks/blob/master/Embryogenetic-Connectome%20Integration/README.md)
 
 ### Developmental Biology and Machine Learning
 Morphogenesis and the Theory of Deep Learning [Github](https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Morphogenesis%20and%20Theory%20of%20Deep%20Learning/Abstract.md)
