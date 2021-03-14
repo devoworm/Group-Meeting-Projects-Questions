@@ -22,6 +22,10 @@ Behavioral Emergence as Explorations of the Possible [Github](https://github.com
 
 Emergent Behavior in _C. elegans_ and other organisms [Github](https://github.com/devoworm/Emergent-Behavior/blob/master/Review-document.md)
 
+### Networks
+
+Embryo Networks as Generative Divergent Integration: [GDocs](https://docs.google.com/document/d/1UOGvkIwH3gr6EA48Uau4xUX2hR1PQWIeCb-kGm-U6Fc/edit)
+
 ### DevoLearn
 DevoLearn: Machine Learning Models and Education that Enable Computational Developmental Biology [Github](https://github.com/DevoLearn/devolearn/blob/master/paper.md)
 
