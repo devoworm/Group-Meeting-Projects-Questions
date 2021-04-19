@@ -31,7 +31,7 @@ DevoLearn: Machine Learning Models and Education that Enable Computational Devel
 
 ### Bacillaria Non-neuronal Cognition
 
-* Bacillaria Psychophysics: [Google Doc](https://github.com/devoworm/Digital-Bacillaria/blob/master/Behaviors/Open%20Papers/Bacillaria-Psychophysics.md)
+* Bacillaria Psychophysics: [Github](https://github.com/devoworm/Digital-Bacillaria/blob/master/Behaviors/Open%20Papers/Bacillaria-Psychophysics.md)
 
 * Collective Pattern Generators: [Google Doc](https://docs.google.com/document/d/12t_pcFRiBCqomIxqzOF5A2ljl4RpCn-ObqI7SJYmHr8/edit), [Github](https://github.com/devoworm/Digital-Bacillaria/blob/master/Behaviors/Open%20Papers/Bacillaria-CoPGs.md)
 
