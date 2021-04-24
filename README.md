@@ -6,7 +6,7 @@ Check out our group meetings on our [YouTube channel](https://www.youtube.com/ch
 To contribute, either request permissions (Google Docs) or issue a pull request to the linked repository (Github)
 
 ## Developmental Modeling
-Game Theory for Developmental Processes: [Google Doc](https://docs.google.com/document/d/17_jziJmoCMWaWQvsV5Omhc9yUeGaiWoikaUt7xd6hK0/edit)
+Game Theory for Developmental Processes: [Google Doc](https://docs.google.com/document/d/1FtuYs_lC3iciP9F76HLJyekphDoKZX_-lF5CSH84nzQ/edit)
 
 Models for Biological (living) Networks: [Neuromatch.io lecture](https://docs.google.com/presentation/d/1hYQJjhmG0t5fIWgzdhdmoNjyhEEu6Mj85ULwoBafxa8/edit#slide=id.g72374b405e_0_27), [Github](https://github.com/devoworm/Theoretical-Types-of-Embryo-Developmental-Networks)
 
@@ -31,7 +31,7 @@ DevoLearn: Machine Learning Models and Education that Enable Computational Devel
 
 ### Bacillaria Non-neuronal Cognition
 
-* Bacillaria Psychophysics: [Github](https://github.com/devoworm/Digital-Bacillaria/blob/master/Behaviors/Open%20Papers/Bacillaria-Psychophysics.md)
+* Bacillaria Psychophysics: [Google Doc](https://docs.google.com/document/d/17_jziJmoCMWaWQvsV5Omhc9yUeGaiWoikaUt7xd6hK0/edit), [Github](https://github.com/devoworm/Digital-Bacillaria/blob/master/Behaviors/Open%20Papers/Bacillaria-Psychophysics.md)
 
 * Collective Pattern Generators: [Google Doc](https://docs.google.com/document/d/12t_pcFRiBCqomIxqzOF5A2ljl4RpCn-ObqI7SJYmHr8/edit), [Github](https://github.com/devoworm/Digital-Bacillaria/blob/master/Behaviors/Open%20Papers/Bacillaria-CoPGs.md)
 
