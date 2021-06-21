@@ -10,10 +10,6 @@ Game Theory for Developmental Processes: [Google Doc](https://docs.google.com/do
 
 Models for Biological (living) Networks: [Neuromatch.io lecture](https://docs.google.com/presentation/d/1hYQJjhmG0t5fIWgzdhdmoNjyhEEu6Mj85ULwoBafxa8/edit#slide=id.g72374b405e_0_27), [Github](https://github.com/devoworm/Theoretical-Types-of-Embryo-Developmental-Networks)
 
-Theoretical Types of Embryo/Developmental Networks: [Github](https://github.com/devoworm/Theoretical-Types-of-Embryo-Developmental-Networks/blob/master/Review-document.md)
-
-Embryo Networks as Generative Divergent Integration [Google Doc](https://docs.google.com/document/d/1UOGvkIwH3gr6EA48Uau4xUX2hR1PQWIeCb-kGm-U6Fc/edit), [Github](https://github.com/devoworm/Theoretical-Types-of-Embryo-Developmental-Networks/blob/master/Embryogenetic-Connectome%20Integration/README.md)
-
 ### Developmental Biology and Machine Learning
 Morphogenesis and the Theory of Deep Learning [Github](https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Morphogenesis%20and%20Theory%20of%20Deep%20Learning/Abstract.md)
 
@@ -24,7 +20,9 @@ Emergent Behavior in _C. elegans_ and other organisms [Github](https://github.co
 
 ### Networks
 
-Embryo Networks as Generative Divergent Integration: [GDocs](https://docs.google.com/document/d/1UOGvkIwH3gr6EA48Uau4xUX2hR1PQWIeCb-kGm-U6Fc/edit)
+Embryo Networks as Generative Divergent Integration: [GDocs](https://docs.google.com/document/d/1UOGvkIwH3gr6EA48Uau4xUX2hR1PQWIeCb-kGm-U6Fc/edit), [Github](https://github.com/devoworm/Theoretical-Types-of-Embryo-Developmental-Networks/blob/master/Embryogenetic-Connectome%20Integration/README.md)
+
+Theoretical Types of Embryo/Developmental Networks: [Github](https://github.com/devoworm/Theoretical-Types-of-Embryo-Developmental-Networks/blob/master/Review-document.md)
 
 ### DevoLearn
 DevoLearn: Machine Learning Models and Education that Enable Computational Developmental Biology [Github](https://github.com/DevoLearn/devolearn/blob/master/paper.md)
@@ -35,6 +33,7 @@ DevoLearn: Machine Learning Models and Education that Enable Computational Devel
 
 * Collective Pattern Generators: [Google Doc](https://docs.google.com/document/d/12t_pcFRiBCqomIxqzOF5A2ljl4RpCn-ObqI7SJYmHr8/edit), [Github](https://github.com/devoworm/Digital-Bacillaria/blob/master/Behaviors/Open%20Papers/Bacillaria-CoPGs.md)
 
+### Pattern Formation
 Moire Patterns for Developmental Biology: [Github](https://github.com/devoworm/AoDT/tree/master/Moire%20Patterns%20for%20Developmental%20Data)
 
 Axial Biology and Isometric Networks: [Github](https://github.com/devoworm/AoDT/tree/master/Isometric%20Structures)  
