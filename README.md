@@ -1,6 +1,13 @@
 ## Group Meetings
 
+## Digital Bacillaria
+Address an [issue](https://github.com/devoworm/Digital-Bacillaria/issues) or attend a [group meeting](https://devoworm.weebly.com/schedulejoin.html), Contribute to Hacktoberfest 2021!   
+
+<IMG width="200" height="50" SRC = "https://github.com/devoworm/Digital-Bacillaria/blob/master/Hacktoberfest/hf_logo.png">
+
 Check out our group meetings on our [YouTube channel](https://www.youtube.com/channel/UChGTq41_rJwmZ1I4j7SezWQ) and our [weekly agenda](https://docs.google.com/spreadsheets/d/1dbYBQRztJzhO9fbPDLBFutSk6tqFaiGbEauvFELoCbM/edit#gid=0).
+  
+Want to join us in person? Join our 
 
 ### Group Papers
 To contribute, either request permissions (Google Docs) or issue a pull request to the linked repository (Github)
