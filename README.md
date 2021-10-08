@@ -1,6 +1,5 @@
 ## Group Meetings
 
-## Digital Bacillaria
 Address an [issue](https://github.com/devoworm/Group-Meetings/projects/1) on our group projects board and Contribute to Hacktoberfest 2021!   
 
 <IMG width="200" height="50" SRC = "https://github.com/devoworm/Digital-Bacillaria/blob/master/Hacktoberfest/hf_logo.png">
@@ -9,7 +8,7 @@ Check out our group meetings on our [YouTube channel](https://www.youtube.com/ch
   
 Want to join us in real-time? Join the OpenWorm [Slack team](https://launchpass.com/openworm) (channels #devoworm and #devolearn) or check out [group meeting schedule](https://devoworm.weebly.com/schedulejoin.html).
   
-### Bacillaria Non-neuronal Cognition
+## Digital Bacillaria and Non-neuronal Cognition
 
 * Bacillaria Psychophysics: [Google Doc](https://docs.google.com/document/d/17_jziJmoCMWaWQvsV5Omhc9yUeGaiWoikaUt7xd6hK0/edit), [Github](https://github.com/devoworm/Digital-Bacillaria/blob/master/Behaviors/Open%20Papers/Bacillaria-Psychophysics.md)
 
@@ -31,7 +30,7 @@ Axial Biology and Isometric Networks: [Github](https://github.com/devoworm/AoDT/
 ### Developmental Biology and Machine Learning
 Morphogenesis and the Theory of Deep Learning [Github](https://github.com/devoworm/Proposals-Public-Lectures/blob/master/Morphogenesis%20and%20Theory%20of%20Deep%20Learning/Abstract.md)
 
-### Behavioral Emergence
+## Behavioral Emergence
 Behavioral Emergence as Explorations of the Possible [Github](https://github.com/devoworm/Emergent-Behavior/blob/master/Behavioral-Emergence-as-Explorations-of-the-Possible.md)
 
 Emergent Behavior in _C. elegans_ and other organisms [Github](https://github.com/devoworm/Emergent-Behavior/blob/master/Review-document.md)
